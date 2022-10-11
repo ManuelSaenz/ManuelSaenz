@@ -10,7 +10,7 @@
 
 ## ⚡ __Skills__:
 - 🧠 Aprendizaje rápido. 
-- 🤙 Colaborativo
+- 🤙 Colaborativo.
 
 ## 🤓 Conocimiento en ...
 - 👨‍💻 __Programación__.
