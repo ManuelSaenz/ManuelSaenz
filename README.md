@@ -1,4 +1,4 @@
-## __print__("Hello 👋, my name is __Manuel Sáenz__😎")
+## __print__("Hello 👋, my name is Manuel Sáenz😎")
 
 <!--
 **ManuelSaenz/ManuelSaenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
