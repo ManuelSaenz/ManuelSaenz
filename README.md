@@ -8,7 +8,7 @@
 - 👷‍♂️ I am currently __working__ and doing __internships__ at [Grupo Concordia](http://grupoconcordia.com/) as a __Systems Assistant__ 🖥.
 - 📫 __Contact:__ manuel.saenz11@hotmail.com
 
-⚡ __Skills__:
+## ⚡ __Skills__:
 - 🧠 Quick learning.
 - 🤙 Collaborative.
 
