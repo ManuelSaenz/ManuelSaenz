@@ -1,19 +1,19 @@
-## __print__("Hola 👋, mi nombre es Manuel Sáenz")
+## __print__("Hello 👋, my name is __Manuel Sáenz__😎")
 
 <!--
 **ManuelSaenz/ManuelSaenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 📚 Soy __estudiante__ de la carrera de la __Licenciatura en Informática__ y estoy cursando __7mo__ Semestre.
-- 👷‍♂️ Actualmente estoy __trabajando__ y __realizando__ practicas en [Grupo Concordia](http://grupoconcordia.com/) como __Auxiliar de sistemas__ 🖥.
-- 📫 __Contacto:__ manuel.saenz11@hotmail.com
+- 📚 I am a __student__ of the __Bachelor of Computer Science__ and I am in the __7th__ Semester.
+- 👷‍♂️ I am currently __working__ and doing __internships__ at [Grupo Concordia](http://grupoconcordia.com/) as a __Systems Assistant__ 🖥.
+- 📫 __Contact:__ manuel.saenz11@hotmail.com
 
-## ⚡ __Habilidades__:
-- 🧠 Aprendizaje rápido. 
-- 🤙 Colaborativo.
+⚡ __Skills__:
+- 🧠 Quick learning.
+- 🤙 Collaborative.
 
-## 🤓 Conocimiento en ...
-- 👨‍💻 __Programación__.
-- 🖱 __Base de datos__.
-- 🛠 __Mantenimiento de equipo__.
-- 🔗 __Redes__.
+## 🤓Knowledge in...
+- 👨‍💻 Programming.
+- 🖱 Database.
+- 🛠 Equipment maintenance.
+- 🔗 Networks.
