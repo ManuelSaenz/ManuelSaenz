@@ -5,7 +5,7 @@
 -->
 
 - 📚 I am a __student__ of the __Bachelor of Computer Science__ and I am in the __7th__ Semester.
-- 👷‍♂️ I am currently __working__ and doing __internships__ at [Grupo Concordia](http://grupoconcordia.com/) as a __Systems Assistant__ 🖥.
+- 👷‍♂️ I am currently __working__ at [Rino Risk](https://www.rinorisk.com/) as a __Systems__ 🖥.
 - 📫 __Contact:__ manuel.saenz11@hotmail.com
 
 ## ⚡ __Skills__:
